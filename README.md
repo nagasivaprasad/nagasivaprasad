@@ -71,5 +71,3 @@
                 </items>
         </content>
 </jcr:root>
-
-
